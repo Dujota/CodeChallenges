@@ -5,7 +5,6 @@
 ### Instructions
 
 1) Fork/Clone or Download the zip of this Repository
-
-2.) Load the project folder into your code editor and explore the contents
-3.) Open the html document in your favourite development browser
-4.) Happy hacking! :D
+2) Load the project folder into your code editor and explore the contents
+3) Open the html document in your favourite development browser
+4) Happy hacking! :D
