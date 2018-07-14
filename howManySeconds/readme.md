@@ -16,7 +16,7 @@ You are being asked to provide a console log of the time in seconds from a list 
 
 ### Instructions
 
-1.) Fork this repo or download the zip
-2.) Load the project folder into your code editor and explore the contents
-3.) Open the html document in your favourite development browser
-4.) Happy hacking! :D
+1) Fork this repo or download the zip
+2) Load the project folder into your code editor and explore the contents
+3) Open the html document in your favourite development browser
+4) Happy hacking! :D
