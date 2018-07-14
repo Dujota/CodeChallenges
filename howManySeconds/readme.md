@@ -10,7 +10,7 @@ You are being asked to provide a console log of the time in seconds from a list 
 
 ### Key Concepts
 
-- Looking through Array.prototype methods documentation
+- Looking through Array.prototype methods documentation https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 - Google Chrome developer tools
 - Array manipulation and mutation
 
