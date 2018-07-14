@@ -1,6 +1,6 @@
 # CodeChallenges
 
-#####This folder is a container for coding challenges and excercises that will be posted throughout for your practice.
+##### This folder is a container for coding challenges and excercises that will be posted throughout for your practice.
 
 ### Instructions
 
