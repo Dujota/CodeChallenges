@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Train Schedule</title>
+</head>
+
+<body>
+
+  <h1>Train Schedule excercise</h1>
+
+  <div>
+    <p>
+      Create the following array in your JS file:
+    </p>
+
+    <code style=display:block;white-space:pre-wrap>
+        [
+        {train: "72C", frequency_in_minutes: 15, direction: "north"},
+        {train: "72D", frequency_in_minutes: 15, direction: "south"},
+        {train: "610", frequency_in_minutes: 5, direction: "north"},
+        {train: "611", frequency_in_minutes: 5, direction: "south"},
+        {train: "80A", frequency_in_minutes: 30, direction: "east"},
+        {train: "80B", frequency_in_minutes: 30, direction: "west"},
+        {train: "110", frequency_in_minutes: 15, direction: "north"},
+        {train: "111", frequency_in_minutes: 15, direction: "south"}
+        ]
+      </code>
+
+    <ol>
+      <li>Save the direction of train 111 into a variable.</li>
+      <li>Save the frequency of train 80B into a variable.</li>
+      <li>Save the direction of train 610 into a variable.</li>
+      <li>Create an empty array. Iterate through each train and add the name of the train into the array if it travels north.</li>
+      <li>Do the same thing for trains that travel east.</li>
+      <li>You probably just ended up rewriting some of the same code. Move this repeated code into a method that accepts a direction
+        and a list of trains as arguments, and returns a list of just the trains that go in that direction. Call this method
+        once for north and once for east in order to DRY up your code.</li>
+      <li>Pick one train and add another key/value pair for the first_departure_time. For simplicity, assume the first train
+        always leave on the hour. You can represent this hour as an integer: 6 for 6:00am, 12 for noon, 13 for 1:00pm, etc.</li>
+    </ol>
+
+    <h4>OPEN THE CONSOLE TO LOG THE RESULTS</h4>
+
+
+
+
+
+
+
+
+  </div>
+  <script src="schedule.js"></script>
+</body>
+
+</html>
