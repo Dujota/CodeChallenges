@@ -10,13 +10,20 @@ You are being asked to provide a console log of the time in seconds from a list 
 
 ### Key Concepts
 
-- Looking through Array.prototype methods documentation
+- Looking through Array.prototype methods documentation https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 - Google Chrome developer tools
 - Array manipulation and mutation
 
 ### Instructions
 
+<<<<<<< HEAD
 1.  Fork/Clone or Download the zip of this Repository
 2.  Load the project folder into your code editor and explore the contents
 3.  Open the html document in your favourite development browser
 4.  Happy hacking! :D
+=======
+1) Fork this repo or download the zip
+2) Load the project folder into your code editor and explore the contents
+3) Open the html document in your favourite development browser
+4) Happy hacking! :D
+>>>>>>> 32e053d3716f98447ab07e4c704d53e276b86dd1
